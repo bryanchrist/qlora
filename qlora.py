@@ -54,7 +54,7 @@ class ModelArguments:
         default="EleutherAI/pythia-12b"
     )
     trust_remote_code: Optional[bool] = field(
-        default=False,
+        default=True,
         metadata={"help": "Enable unpickling of arbitrary code in AutoModelForCausalLM#from_pretrained."}
     )
     use_auth_token: Optional[bool] = field(
