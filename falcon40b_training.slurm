@@ -24,6 +24,6 @@ module purge
 
 module load anaconda
 module load cuda/11.4.2
-pip install -U -r requirements.txt
 source activate falcon_40B
+pip install -U -r requirements.txt
 python qlora.py --learning_rate 0.0001 --model_name_or_path checkpoints/tiiuae/falcon-40b-instruct --dataset = "data/ASDiv_clean.json"
