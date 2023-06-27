@@ -1,13 +1,16 @@
 #!/bin/bash
 #SBATCH -A sds-phd-2022
 #SBATCH -p gpu
+#SBATCH --gres=gpu:a100:1 # replace X with the number of GPUs per node
+#SBATCH -C gpupod
+
 ##SBATCH --hint=nomultithread #8GB per reserved CPU core if hyperthreading deactivated and 1/2 that when active
-#SBATCH --cpus-per-task=10
-#SBATCH --mem=0
-#SBATCH --gres=gpu:1
+##SBATCH --cpus-per-task=10
+##SBATCH --mem=0
+##SBATCH --gres=gpu:1
 ##SBATCH --gres=gpu:v100:1
-##SBATCH --gres=gpu:a100_80gb:2
-#SBATCH -c 1
+##SBATCH --gres=gpu:a100_80gb:1
+##SBATCH -c 1
 #SBATCH -t 0-24:00:00
 #SBATCH -J falcon_instruct_run1
 #SBATCH -o job1-%A.out
@@ -26,4 +29,6 @@ module load anaconda
 module load cuda/11.4.2
 source activate falcon_40B
 pip install -U -r requirements.txt
+conda install -y cudatoolkit
+export LD_LIBRARY_PATH='/opt/conda/lib/' 
 python qlora.py --learning_rate 0.0001 --model_name_or_path checkpoints/tiiuae/falcon-40b-instruct --dataset = "data/ASDiv_clean.json"
