@@ -23,6 +23,8 @@ try:
     # Attempt to load the model with trust_remote_code=True
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
+        load_in_4bit=True, 
+        device_map="auto",
         config=AutoConfig.from_pretrained(model_path, trust_remote_code=True)
     )
 except EOFError:
