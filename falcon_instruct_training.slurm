@@ -5,8 +5,8 @@
 #SBATCH -C gpupod
 
 ##SBATCH --hint=nomultithread #8GB per reserved CPU core if hyperthreading deactivated and 1/2 that when active
-##SBATCH --cpus-per-task=10
-##SBATCH --mem=0
+#SBATCH --cpus-per-task=10
+#SBATCH --mem=0
 ##SBATCH --gres=gpu:1
 ##SBATCH --gres=gpu:v100:1
 ##SBATCH --gres=gpu:a100_80gb:1
