@@ -31,4 +31,4 @@ source activate falcon_40B
 pip install -U -r requirements.txt
 conda install -y cudatoolkit
 export LD_LIBRARY_PATH='/opt/conda/lib/' 
-python qlora.py --learning_rate 0.0001 --model_name_or_path checkpoints/tiiuae/falcon-40b-instruct --dataset = "data/ASDiv_clean.json"
+python qlora.py --learning_rate 0.0001 --model_name_or_path checkpoints/tiiuae/falcon-40b-instruct --dataset = "data/ASDiv_clean_formatted.json"
