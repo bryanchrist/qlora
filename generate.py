@@ -2,7 +2,7 @@ import os
 import sys
 import builtins
 from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig
-from adapters import AdapterType, model_fn
+from adapter_transformers import AdapterType, AdapterConfig, load_adapter
 
 # Set the environment variable
 os.environ["HF_REMOTES_OFFLINE"] = "1"
@@ -45,11 +45,8 @@ sys.stdin = sys.__stdin__
 
 # Load the adapter weights
 adapter_name = "adapter_model"  # Specify the name of the adapter
-adapter = model_fn(model.config)
-adapter.load(adapter_path, model=model)
-
-# Add the adapter to the model
-model.set_adapter(adapter_name, adapter, AdapterType.text_task)
+adapter_config = AdapterConfig.load(adapter_path)
+model = load_adapter(model, adapter_name, config=adapter_config)
 
 prompt = "Write a grade 1 Addition question and corresponding equation to solve the problem."
 input_ids = tokenizer.encode(prompt, return_tensors="pt")
