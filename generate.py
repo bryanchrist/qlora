@@ -2,6 +2,7 @@ import os
 import sys
 import builtins
 from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig, AdapterType, AdapterConfig
+#from adapter-transformers import AdapterType, AdapterConfig, load_adapter
 
 # Set the environment variable
 os.environ["HF_REMOTES_OFFLINE"] = "1"
@@ -24,6 +25,15 @@ try:
     # Attempt to load the model with trust_remote_code=True
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
+        load_in_4bit=True, 
+        max_memory=max_memory,
+        torch_dtype=torch.bfloat16,
+        quantization_config=BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_compute_dtype=torch.bfloat16,
+            bnb_4bit_use_double_quant=True,
+            bnb_4bit_quant_type='nf4'
+        ),
         config=AutoConfig.from_pretrained(model_path, trust_remote_code=True)
     )
 except EOFError:
@@ -36,7 +46,7 @@ sys.stdin = sys.__stdin__
 # Load the adapter weights
 adapter_name = "adapter_model"  # Specify the name of the adapter
 adapter_config = AdapterConfig.load(adapter_path)
-model.load_adapter(adapter_path, adapter_name, config=adapter_config)
+model.load_adapter(model, adapter_name, config=adapter_config)
 
 prompt = "Write a grade 1 Addition question and corresponding equation to solve the problem."
 input_ids = tokenizer.encode(prompt, return_tensors="pt")
