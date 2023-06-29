@@ -1,7 +1,7 @@
 import os
 import sys
 import builtins
-from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig, AdapterConfig
+from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig
 import torch
 from collections import defaultdict
 import copy
@@ -84,8 +84,8 @@ sys.stdin = sys.__stdin__
 
 # Load the adapter weights
 adapter_name = "adapter_model"  # Specify the name of the adapter
-adapter_config = AdapterConfig.load(adapter_path)
-model.load_adapter(model, adapter_name, config=adapter_config)
+adapter_name = model.load_adapter(adapter_path)
+model.active_adapters = adapter_name
 
 prompt = "Write a grade 1 Addition question and corresponding equation to solve the problem."
 input_ids = tokenizer.encode(prompt, return_tensors="pt")
