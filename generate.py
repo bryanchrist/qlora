@@ -1,7 +1,7 @@
 import os
 import sys
 import builtins
-from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig, AdapterType, AdapterConfig
+from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig, AdapterConfig
 import torch
 from collections import defaultdict
 import copy
@@ -92,4 +92,8 @@ input_ids = tokenizer.encode(prompt, return_tensors="pt")
 output = model.generate(input_ids, max_length=50, num_return_sequences=1, adapter_names=[adapter_name])
 
 generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
-print(generated_text)
+output_file = "output.txt"  # Specify the path and filename for the output file
+with open(output_file, "w") as f:
+    f.write(generated_text)
+
+print("Generated text saved to", output_file)
