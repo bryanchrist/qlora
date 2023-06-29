@@ -88,7 +88,10 @@ adapter = model.create_adapter()
 adapter.load_adapter(adapter_path)
 
 prompt = "Write a grade 1 Addition question and corresponding equation to solve the problem."
-generated_text = adapter.generate(prompt)
+input_ids = tokenizer.encode(prompt, return_tensors="pt")
+output = adapter.generate(input_ids)
+
+generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
 
 print(generated_text)
 output_file = "output.txt"  # Specify the path and filename for the output file
