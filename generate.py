@@ -1,7 +1,7 @@
 import os
 import sys
 import builtins
-from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig, load_adapter
+from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig
 import torch
 from collections import defaultdict
 import copy
