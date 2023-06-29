@@ -2,7 +2,7 @@ import os
 import sys
 import builtins
 from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig
-from transformers.adapters import AdapterType, AutoConfig
+from adapters import AdapterType, model_fn
 
 # Set the environment variable
 os.environ["HF_REMOTES_OFFLINE"] = "1"
@@ -43,13 +43,13 @@ except EOFError:
 # Restore stdin
 sys.stdin = sys.__stdin__
 
-# Load the adapter configuration
-adapter_config = AutoConfig.from_pretrained(adapter_path)
-
-# Set the adapter(s) and load the weights
+# Load the adapter weights
 adapter_name = "adapter_model"  # Specify the name of the adapter
-model.set_active_adapters(adapter_config.adapters)
-model.load_adapter(adapter_path, adapter_name)
+adapter = model_fn(model.config)
+adapter.load(adapter_path, model=model)
+
+# Add the adapter to the model
+model.set_adapter(adapter_name, adapter, AdapterType.text_task)
 
 prompt = "Write a grade 1 Addition question and corresponding equation to solve the problem."
 input_ids = tokenizer.encode(prompt, return_tensors="pt")
