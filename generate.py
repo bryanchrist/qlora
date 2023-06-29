@@ -3,6 +3,44 @@ import sys
 import builtins
 from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig, AdapterType, AdapterConfig
 import torch
+from collections import defaultdict
+import copy
+import json
+import os
+from os.path import exists, join, isdir
+from dataclasses import dataclass, field
+import sys
+from typing import Optional, Dict, Sequence
+import numpy as np
+from tqdm import tqdm
+import logging
+import bitsandbytes as bnb
+import pandas as pd
+
+import torch
+import transformers
+from torch.nn.utils.rnn import pad_sequence
+import argparse
+from transformers import (
+    AutoTokenizer,
+    AutoModelForCausalLM,
+    set_seed,
+    Seq2SeqTrainer,
+    BitsAndBytesConfig,
+    LlamaTokenizer
+
+)
+from datasets import load_dataset, Dataset
+import evaluate
+
+from peft import (
+    prepare_model_for_kbit_training,
+    LoraConfig,
+    get_peft_model,
+    PeftModel
+)
+from peft.tuners.lora import LoraLayer
+from transformers.trainer_utils import PREFIX_CHECKPOINT_DIR
 #from adapter-transformers import AdapterType, AdapterConfig, load_adapter
 
 # Set the environment variable
