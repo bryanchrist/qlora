@@ -2,6 +2,7 @@ import os
 import sys
 import builtins
 from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig
+from transformers.adapters import AdapterType, AutoConfig
 
 # Set the environment variable
 os.environ["HF_REMOTES_OFFLINE"] = "1"
@@ -10,6 +11,7 @@ os.environ["HF_REMOTES_OFFLINE"] = "1"
 sys.stdin = open(os.devnull)
 
 model_path = "checkpoints/tiiuae/falcon-40b-instruct"  # Specify the path to the downloaded model
+adapter_path = "output/checkpoint-3250"  # Specify the path to the adapter weights
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
 # Patch the built-in input function to return 'y' automatically
@@ -24,7 +26,14 @@ try:
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
         load_in_4bit=True, 
-        device_map="auto",
+        max_memory=max_memory,
+        torch_dtype=torch.bfloat16,
+        quantization_config=BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_compute_dtype=torch.bfloat16,
+            bnb_4bit_use_double_quant=True,
+            bnb_4bit_quant_type='nf4'
+        ),
         config=AutoConfig.from_pretrained(model_path, trust_remote_code=True)
     )
 except EOFError:
@@ -34,11 +43,17 @@ except EOFError:
 # Restore stdin
 sys.stdin = sys.__stdin__
 
+# Load the adapter configuration
+adapter_config = AutoConfig.from_pretrained(adapter_path)
+
+# Set the adapter(s) and load the weights
+adapter_name = "adapter_model"  # Specify the name of the adapter
+model.set_active_adapters(adapter_config.adapters)
+model.load_adapter(adapter_path, adapter_name)
 
 prompt = "Write a grade 1 Addition question and corresponding equation to solve the problem."
 input_ids = tokenizer.encode(prompt, return_tensors="pt")
-output = model.generate(input_ids, max_length=50, num_return_sequences=1)
+output = model.generate(input_ids, max_length=50, num_return_sequences=1, adapter_names=[adapter_name])
 
 generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
 print(generated_text)
-
