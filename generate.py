@@ -2,6 +2,7 @@ import os
 import sys
 import builtins
 from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig, AdapterType, AdapterConfig
+import torch
 #from adapter-transformers import AdapterType, AdapterConfig, load_adapter
 
 # Set the environment variable
