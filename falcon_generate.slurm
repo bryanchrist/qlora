@@ -11,7 +11,7 @@
 ##SBATCH --gres=gpu:v100:1
 ##SBATCH --gres=gpu:a100_80gb:1
 ##SBATCH -c 1
-#SBATCH -t 0-24:00:00
+#SBATCH -t 0-01:00:00
 #SBATCH -J falcon_generate_run1
 #SBATCH -o generate1-%A.out
 #SBATCH -e generate1-%A.err
