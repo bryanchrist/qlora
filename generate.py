@@ -87,8 +87,11 @@ model = PeftModel.from_pretrained(model, adapter_path)
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
 prompt = "Write a grade 1 Addition question and corresponding equation to solve the problem."
-input_ids = tokenizer.encode(prompt, return_tensors="pt")
-output = model.generate(input_ids)
+formatted_prompt = (f"Below is an instruction that describes a task. "
+        f"Write a response that appropriately completes the request.\n\n"
+        f"### Instruction:\n{prompt}\n\n### Response: ")
+inputs = tokenizer.encode(formatted_prompt, return_tensors="pt")
+output = model.generate(inputs=inputs.input_ids)
 
 generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
 
