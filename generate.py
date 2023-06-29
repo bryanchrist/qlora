@@ -26,7 +26,7 @@ try:
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
         load_in_4bit=True, 
-        max_memory=max_memory,
+       # max_memory=max_memory,
         torch_dtype=torch.bfloat16,
         quantization_config=BitsAndBytesConfig(
             load_in_4bit=True,
