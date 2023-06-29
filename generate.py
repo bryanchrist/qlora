@@ -84,12 +84,12 @@ sys.stdin = sys.__stdin__
 
 # Load the adapter weights
 adapter_name = "adapter_model"  # Specify the name of the adapter
-adapter = model.create_adapter()
-adapter.load_adapter(adapter_path)
+adapter_name = model.load_adapter(adapter_path)
+model.set_active_adapters(adapter_name)
 
 prompt = "Write a grade 1 Addition question and corresponding equation to solve the problem."
 input_ids = tokenizer.encode(prompt, return_tensors="pt")
-output = adapter.generate(input_ids)
+output = model.generate(input_ids)
 
 generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
 
