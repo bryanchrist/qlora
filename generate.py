@@ -50,7 +50,7 @@ os.environ["HF_REMOTES_OFFLINE"] = "1"
 sys.stdin = open(os.devnull)
 
 model_path = "checkpoints/tiiuae/falcon-40b-instruct"  # Specify the path to the downloaded model
-adapter_path = "output/checkpoint-3250/adapter_model.bin"  # Specify the path to the adapter weights
+adapter_path = "output/checkpoint-3250"  # Specify the path to the adapter weights
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
 # Patch the built-in input function to return 'y' automatically
@@ -83,9 +83,8 @@ except EOFError:
 sys.stdin = sys.__stdin__
 
 # Load the adapter weights
-adapter_name = "adapter_model"  # Specify the name of the adapter
-adapter_name = model.load_adapter(adapter_path)
-model.set_active_adapters(adapter_name)
+model = PeftModel.from_pretrained(model, adapter_path)
+tokenizer = AutoTokenizer.from_pretrained(model_path)
 
 prompt = "Write a grade 1 Addition question and corresponding equation to solve the problem."
 input_ids = tokenizer.encode(prompt, return_tensors="pt")
