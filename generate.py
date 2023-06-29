@@ -1,8 +1,8 @@
 import os
 import sys
 import builtins
-from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig
-from adapter-transformers import AdapterType, AdapterConfig, load_adapter
+from transformers import AutoModelForCausalLM, AutoTokenizer, AutoConfig, AdapterType, AdapterConfig, load_adapter
+#from adapter-transformers import AdapterType, AdapterConfig, load_adapter
 
 # Set the environment variable
 os.environ["HF_REMOTES_OFFLINE"] = "1"
