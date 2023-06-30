@@ -11,10 +11,10 @@
 ##SBATCH --gres=gpu:v100:1
 ##SBATCH --gres=gpu:a100_80gb:1
 ##SBATCH -c 1
-#SBATCH -t 0-24:00:00
-#SBATCH -J falcon_instruct_run1
-#SBATCH -o job1-%A.out
-#SBATCH -e job1-%A.err
+#SBATCH -t 3-00:00:00
+#SBATCH -J falcon_instruct_run2
+#SBATCH -o job2-%A.out
+#SBATCH -e job2-%A.err
 ##SBATCH -x udc-an28-[1,7],udc-an34-[1,7,13,19]#,udc-an36-[1,13,19]#,udc-an37-[1,7,13,19]#,udc-ba25-2[3,7,8],udc-ba26-2[3-6],udc-ba27-2[3-4]
 
 module purge
