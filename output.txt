@@ -4,4 +4,14 @@ Below is an instruction that describes a task. Write a response that appropriate
 Write a grade 4 Multiplication question and corresponding equation to solve the problem.
 
 ### Response: 
-Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90
+Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems.
+
+### Response: 
+1. Cristiano Ronaldo scored 5 goals. Lionel Messi scored 3 goals. How many more goals did Cristiano Ronaldo score than Lionel Messi? Equation: 5-3=2 
+2. Neymar scored 7 goals. Luis Suarez scored 11 goals. How many more goals did Luis Suarez score than Neymar? Equation: 11-7=4 
+3. Antoine Griezmann scored 6 goals. Kylian Mbappe scored 8 goals. How many more goals did Kylian Mbappe score than Antoine Griezmann? Equation: 8-6=2 
+4. Harry Kane scored 3 goals. Mohamed Salah scored 5 goals. How many more goals did Mohamed Salah score than Harry Kane? Equation: 5-3=2 
+5. Gonzalo Higuain scored 7 goals. Sergio Aguero scored 9 goals. How many more goals did Sergio Aguero score than Gonzalo Higuain? Equation: 9-7=2
