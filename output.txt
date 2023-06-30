@@ -1,9 +1,7 @@
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
 ### Instruction:
-Write a grade 1 Addition question and corresponding equation to solve the problem.
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
 
 ### Response: 
-Sumiko has 9 apples. Yukiko has 3 apples. How many apples do they have in total? 
-
-9+3=12
+Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90
