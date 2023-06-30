@@ -91,7 +91,7 @@ formatted_prompt = (f"Below is an instruction that describes a task. "
         f"Write a response that appropriately completes the request.\n\n"
         f"### Instruction:\n{prompt}\n\n### Response: ")
 inputs = tokenizer.encode(formatted_prompt, return_tensors="pt")
-output = model.generate(inputs=inputs.input_ids)
+output = model.generate(inputs=inputs)
 
 generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
 
