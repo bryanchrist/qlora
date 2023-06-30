@@ -1,1 +1,9 @@
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
+### Instruction:
+Write a grade 1 Addition question and corresponding equation to solve the problem.
+
+### Response: 
+Sumiko has 9 apples. Yukiko has 3 apples. How many apples do they have in total? 
+
+9+3=12
