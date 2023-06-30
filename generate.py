@@ -86,7 +86,7 @@ sys.stdin = sys.__stdin__
 model = PeftModel.from_pretrained(model, adapter_path)
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
-prompt = "Write a grade 1 Addition question and corresponding equation to solve the problem."
+prompt = "Write a grade 4 Multiplication question and corresponding equation to solve the problem."
 formatted_prompt = (f"Below is an instruction that describes a task. "
         f"Write a response that appropriately completes the request.\n\n"
         f"### Instruction:\n{prompt}\n\n### Response: ")
