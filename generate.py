@@ -86,20 +86,53 @@ sys.stdin = sys.__stdin__
 model = PeftModel.from_pretrained(model, adapter_path)
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
-prompt = "Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems."
-formatted_prompt = (f"Below is an instruction that describes a task. "
-        f"Write a response that appropriately completes the request.\n\n"
-        f"### Instruction:\n{prompt}\n\n### Response: ")
-inputs = tokenizer.encode(formatted_prompt, return_tensors="pt")
-attention_mask = torch.ones_like(inputs)
-inputs = inputs.to('cuda')
-output = model.generate(inputs=inputs, attention_mask=attention_mask, max_new_tokens = 400)
-
-generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
-
-print(generated_text)
-output_file = "output.txt"  # Specify the path and filename for the output file
-with open(output_file, "a") as f:  # Open the file in append mode ("a")
-    f.write(generated_text + "\n")  # Append the generated text to the file
+for i in range(0,5):
+    prompt = "Write a grade 4 Multiplication question and corresponding equation to solve the problem."
+    formatted_prompt = (f"Below is an instruction that describes a task. "
+            f"Write a response that appropriately completes the request.\n\n"
+            f"### Instruction:\n{prompt}\n\n### Response: ")
+    inputs = tokenizer.encode(formatted_prompt, return_tensors="pt")
+    attention_mask = torch.ones_like(inputs)
+    inputs = inputs.to('cuda')
+    output = model.generate(inputs=inputs, attention_mask=attention_mask, max_new_tokens = 400)
+    
+    generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
+    
+    print(generated_text)
+    output_file = "output.txt"  # Specify the path and filename for the output file
+    with open(output_file, "a") as f:  # Open the file in append mode ("a")
+        f.write(generated_text + "\n")  # Append the generated text to the file
+    
+    prompt = "Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem."
+    formatted_prompt = (f"Below is an instruction that describes a task. "
+            f"Write a response that appropriately completes the request.\n\n"
+            f"### Instruction:\n{prompt}\n\n### Response: ")
+    inputs = tokenizer.encode(formatted_prompt, return_tensors="pt")
+    attention_mask = torch.ones_like(inputs)
+    inputs = inputs.to('cuda')
+    output = model.generate(inputs=inputs, attention_mask=attention_mask, max_new_tokens = 400)
+    
+    generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
+    
+    print(generated_text)
+    output_file = "output.txt"  # Specify the path and filename for the output file
+    with open(output_file, "a") as f:  # Open the file in append mode ("a")
+        f.write(generated_text + "\n")  # Append the generated text to the file
+        
+    prompt = "Write five grade 4 Multiplication questions about soccer and corresponding equations to solve the problems."
+    formatted_prompt = (f"Below is an instruction that describes a task. "
+            f"Write a response that appropriately completes the request.\n\n"
+            f"### Instruction:\n{prompt}\n\n### Response: ")
+    inputs = tokenizer.encode(formatted_prompt, return_tensors="pt")
+    attention_mask = torch.ones_like(inputs)
+    inputs = inputs.to('cuda')
+    output = model.generate(inputs=inputs, attention_mask=attention_mask, max_new_tokens = 400)
+    
+    generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
+    
+    print(generated_text)
+    output_file = "output.txt"  # Specify the path and filename for the output file
+    with open(output_file, "a") as f:  # Open the file in append mode ("a")
+        f.write(generated_text + "\n")  # Append the generated text to the file
 
 print("Generated text appended to", output_file)
