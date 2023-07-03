@@ -50,7 +50,7 @@ os.environ["HF_REMOTES_OFFLINE"] = "1"
 sys.stdin = open(os.devnull)
 
 model_path = "checkpoints/tiiuae/falcon-40b-instruct"  # Specify the path to the downloaded model
-adapter_path = "output/checkpoint-9500"  # Specify the path to the adapter weights
+adapter_path = "output/checkpoint-2250"  # Specify the path to the adapter weights
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
 # Patch the built-in input function to return 'y' automatically
