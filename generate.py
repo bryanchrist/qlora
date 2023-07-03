@@ -50,7 +50,7 @@ os.environ["HF_REMOTES_OFFLINE"] = "1"
 sys.stdin = open(os.devnull)
 
 model_path = "checkpoints/tiiuae/falcon-40b-instruct"  # Specify the path to the downloaded model
-adapter_path = "output/checkpoint-3250"  # Specify the path to the adapter weights
+adapter_path = "output/checkpoint-9500"  # Specify the path to the adapter weights
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
 # Patch the built-in input function to return 'y' automatically
@@ -103,6 +103,22 @@ for i in range(0,10):
     with open(output_file, "a") as f:  # Open the file in append mode ("a")
         f.write(generated_text + "\n")  # Append the generated text to the file
     
+    prompt = "Write five grade 4 Multiplication questions and corresponding equations to solve the problems."
+    formatted_prompt = (f"Below is an instruction that describes a task. "
+            f"Write a response that appropriately completes the request.\n\n"
+            f"### Instruction:\n{prompt}\n\n### Response: ")
+    inputs = tokenizer.encode(formatted_prompt, return_tensors="pt")
+    attention_mask = torch.ones_like(inputs)
+    inputs = inputs.to('cuda')
+    output = model.generate(inputs=inputs, attention_mask=attention_mask, max_new_tokens = 400)
+    
+    generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
+    
+    print(generated_text)
+    output_file = "output.txt"  # Specify the path and filename for the output file
+    with open(output_file, "a") as f:  # Open the file in append mode ("a")
+        f.write(generated_text + "\n")  # Append the generated text to the file
+        
     prompt = "Write a grade 4 Multiplication question about soccer and corresponding equation to solve the problem."
     formatted_prompt = (f"Below is an instruction that describes a task. "
             f"Write a response that appropriately completes the request.\n\n"
