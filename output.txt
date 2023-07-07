@@ -1733,3 +1733,654 @@ Write a grade 3 Multiplication question and corresponding equation to solve the 
 
 ### Response: 
 Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Stephanie has 15 bottles of nail polish. She wants to give each of her 5 friends 3 bottles. How many bottles will she have left? Equation: 15/3=5
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Stephanie has 15 bottles of nail polish. She wants to give each of her 5 friends 3 bottles. How many bottles will she have left? Equation: 15/3=5
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Stephanie has 15 bottles of nail polish. She wants to give each of her 5 friends 3 bottles. How many bottles will she have left? Equation: 15/3=5
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Stephanie has 15 bottles of nail polish. She wants to give each of her 5 friends 3 bottles. How many bottles will she have left? Equation: 15/3=5
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 3 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: 
+Sharon has 18 apples. She gave 9 apples to Lucy. How many apples does Sharon have left? Equation: 18-9=9
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jenny has 18 dolls. She wants to give each of them 5 outfits. How many outfits does Jenny need to have ready? Equation: 18*5=90 
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jon has 5 bags of 12 Skittles. How many Skittles does he have? Equation: 5*12=60Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Tyrek has 9 Fortnite profiles. He wants each of them to have 7 skins. How many skins does he need? Equation: 9*7=73Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Antonio has 20 chocolate bars. Each bar has 5 pieces of chocolate. How many pieces of chocolate does he have? Equation: 20*5=100Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Jose has 15 soccer jerseys. Each jersey has 7 buttons. How many buttons does he have? Equation: 15*7=105Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Juan has 25 pencils. Each pencil is made up of 7 parts. How many parts does he have? Equation: 25*7=175Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Carlos has 30 notebooks. Each notebook has 5 pages. How many pages does he have? Equation: 30*5=150Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Pedro has 35 markers. Each marker has 7 caps. How many caps does he have? Equation: 35*7=245Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Felipe has 40 folders. Each folder has 5 pockets. How many pockets does he have? Equation: 40*5=200Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Write a grade 4 Multiplication question and corresponding equation to solve the problem.
+
+### Response: Gabriel has 45 binder clips. Each clip has 7 parts. How many parts does he have? Equation: 45*7=315Below
